@@ -1,3 +1,4 @@
+
 Some basic commands:
 
 1. ls , dir → to check files in folder
@@ -37,13 +38,15 @@ Codes for Git hub command lines:
 
 13.	git branch <branch name> → to create new branch in your project.
 
-14.	git checkout <branch name> → to switch working branch and commit on that.
+14.     git branch - to check branch in your project.
 
-15.	git checkout main → to sperate main branch from rest of the repository  
+15.	git checkout <branch name> → to switch working branch and commit on that.
 
-16.	git merge feature or <branch name> → to merge branch with main branch
+16.	git checkout main → to sperate main branch from rest of the repository  
 
-17.	git remote -v → to get URL of your github 
+17.	git merge feature or <branch name> → to merge branch with main branch
+
+18.	git remote -v → to get URL of your github 
 
 
 
